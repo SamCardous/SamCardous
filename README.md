@@ -1,4 +1,4 @@
-# 👨‍💻 Samuel Cardoso França
+# 👨‍💻 Samuel Cardoso França 🗼🇧🇷
 
 **`Desenvolvedor Iniciante`**
 
