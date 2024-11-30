@@ -48,7 +48,6 @@ Me chamo Samuel Cardoso, nasci em 2005, sou natural do estado do Maranhão, amo 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Python" 
@@ -56,6 +55,15 @@ Me chamo Samuel Cardoso, nasci em 2005, sou natural do estado do Maranhão, amo 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <br/>
