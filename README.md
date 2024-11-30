@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Iniciante`**
 
-Me chamo Samuel Cardoso, nasci em 2005, sou natural do estado do Maranhão, amo tecnologia e quero aprender a ser um Autodidata nesse mudno vasto e também melhorar meu desempenho em equipe 🫡
+Me chamo Samuel Cardoso, nasci em 2005, sou natural do estado do Maranhão, amo tecnologia e quero aprender a ser um Autodidata nesse mundo vasto e também melhorar meu desempenho em equipe 🫡
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@WellCarduos)
 
