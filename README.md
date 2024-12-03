@@ -98,11 +98,19 @@ Me chamo Samuel Cardoso, nasci em 2005, sou natural do estado do Maranhão, amo 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamCardous&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  <picture align="center">
+  
+</p>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dumontcaio/dumontcaio/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dumontcaio/dumontcaio/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dumontcaio/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br />
-</p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dumontcaio/dumontcaio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dumontcaio/dumontcaio/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dumontcaio/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br />
